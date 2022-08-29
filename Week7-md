@@ -1,0 +1,34 @@
+1. -mkdir etana
+   -cd etana
+2. -mkdir sekolah
+   -cd sekolah
+   -mkdir kerja
+   -cd kerja
+3. -cd -.
+   -touch ijazah.txt
+   -echo Perkenalkan namaku etana
+
+         Aku berasal dari ponorogo
+
+         Salam Kenal :D > ijasah.txt
+    -cat ijazah.txt
+    -touch portfolio.txt
+    -echo Saya pernah bekerja pada beberapa perusahaan salah satu 
+          diantaranya ialah
+
+- PT advan indonesia 
+- PT sat nusa persada
+- PT makmur sejahtera > portfolio.txt
+4.cd ..
+5.-cd kerja
+  -touch cv.txt
+  -echo Salam,
+
+Perkenalkan namaku etana, saya memiliki kegemaran
+- main game
+- nonton film 
+- membaca komik > cv.txt
+  -cat cv.txt
+6. mv portfolio.txt/kerja
+
+  
